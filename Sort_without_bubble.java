@@ -15,7 +15,7 @@ public static void main(String args[])
 	Arrays.parallelSort(a);
 	for(i=0;i<n;i++)
 	{
-		System.out.print(a[i]+" ");
+	     System.out.print(a[i]+" ");
 	}
 }
 	

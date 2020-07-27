@@ -1,4 +1,3 @@
-
 public class Search_On_complexity
 {
 	public static void main(String[] args)  

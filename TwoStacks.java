@@ -4,7 +4,7 @@ class TwoStacks {
     int top1, top2; 
     int arr[]; 
   
-    TwoStacks(int n) 
+   TwoStacks(int n) 
     { 
         arr = new int[n]; 
         size = n; 

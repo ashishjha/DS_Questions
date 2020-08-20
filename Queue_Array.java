@@ -1,5 +1,4 @@
 package Queue;
-
 class Queue { 
     int front, rear, size; 
     int capacity; 
